@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/kotlin.md",
+                "file": "Sample/Sample Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/kotlin.md",
+                "file": "Sample/Sample Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/kotlin.md",
+                "file": "Sample/Sample Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/kotlin.md"
+                "file": "Sample/Sample Page.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   },
   "active": "1be0b69db5eb1adf",
   "lastOpenFiles": [
-    "Templates",
+    "Resource/Untitled.md",
+    "Resource",
     "Sample/Sample Page.md",
-    "Templates/kotlin.md",
-    "Sample/lofi.png",
     "Sample/Intro.md",
+    "Templates/kotlin.md",
+    "Templates",
+    "Sample/lofi.png",
     "Pasted image 20230924204513.png.md",
     "Sample",
     "Untitled 1.md",
