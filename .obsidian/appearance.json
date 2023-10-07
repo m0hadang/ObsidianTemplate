@@ -2,6 +2,7 @@
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "header-color"
+    "header-color",
+    "extended-colorschemes"
   ]
 }
