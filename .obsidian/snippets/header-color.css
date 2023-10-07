@@ -24,7 +24,7 @@
   background-position: -200%;
   animation: animated-gradient 10s infinite alternate-reverse;  
   font-family: "여기어때 잘난체 OTF";
-  padding-bottom: 8%;
+  padding-bottom: 2px;
 }
 
 /*for "Source mode"*/
