@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1be0b69db5eb1adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/kotlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample/Sample Page.md",
+                "file": "Templates/kotlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample/Sample Page.md",
+                "file": "Templates/kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample/Sample Page.md"
+                "file": "Templates/kotlin.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74513da80017ab4b",
+  "active": "1be0b69db5eb1adf",
   "lastOpenFiles": [
-    "Sample/lofi.png",
+    "Templates",
     "Sample/Sample Page.md",
+    "Templates/kotlin.md",
+    "Sample/lofi.png",
     "Sample/Intro.md",
     "Pasted image 20230924204513.png.md",
     "Sample",
