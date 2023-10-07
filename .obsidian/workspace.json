@@ -11,8 +11,12 @@
             "id": "74513da80017ab4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sample/Sample Page.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sample/Sample Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sample/Sample Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sample/Sample Page.md"
+              }
             }
           }
         ]
@@ -139,5 +147,13 @@
     }
   },
   "active": "74513da80017ab4b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Sample/lofi.png",
+    "Sample/Sample Page.md",
+    "Sample/Intro.md",
+    "Pasted image 20230924204513.png.md",
+    "Sample",
+    "Untitled 1.md",
+    "Untitled 2.md"
+  ]
 }
