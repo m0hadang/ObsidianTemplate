@@ -39,8 +39,6 @@ link 3 : insert image & resize
 
 ![[lofi.png|300]]
 
-![[BlackImage.webp|200x200]]
-
 # callout
 
 > [!note]
